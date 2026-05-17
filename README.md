@@ -82,6 +82,6 @@ Some projects are polished and production-ready, while others are experiments bu
 
 - Email: wasiomar21@gmail.com
 - GitHub: https://github.com/WasiOmar
-- LinkedIn: (add your LinkedIn here)
+- LinkedIn: (http://linkedin.com/in/wasi-omar-b26536302)
 
 Feel free to explore my repositories or connect.
