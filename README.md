@@ -11,9 +11,9 @@ I enjoy working at the intersection of:
 
 Currently exploring:
 
+- Machine learning Research Papers (NLP , CV) 
 - Deep Learning architectures (CNNs, Transformers, NLP)
-- Production-grade backend systems
-- AI agents, orchestration, and automation workflows
+- Production-grade backend systems and infrastructure
 - System design and distributed systems fundamentals
 
 ---
@@ -31,76 +31,6 @@ A mix of:
 Some projects are polished and production-ready, while others are experiments built to understand concepts deeply.
 
 ---
-
-## Featured Projects
-
-### PawFect Match
-AI-powered pet adoption platform with smart pet-owner matching.
-
-**Built with:**
-- React
-- Next.js
-- Node.js
-- MongoDB
-- WebSockets
-
-Features:
-- AI-based recommendation system
-- Swipe-based adoption flow
-- Real-time chat
-- Full-stack deployment
-
----
-
-### Student Marketplace
-Full-stack AI-powered marketplace platform for students.
-
-Features:
-- JWT authentication
-- Role-based access control
-- Real-time messaging
-- Smart search & AI assistant
-- Admin moderation system
-
-Tech stack:
-- React
-- Next.js
-- Express.js
-- MongoDB
-- Socket.IO
-
----
-
-### Machine Learning From Scratch
-Implemented core ML algorithms from scratch using Python and NumPy.
-
-Covered:
-- Linear Regression
-- Logistic Regression
-- PCA
-- Decision Trees
-- Gradient Descent
-- Model evaluation pipelines
-
-Goal: understand mathematical foundations beyond libraries.
-
----
-
-### Deep Learning Lab
-Hands-on deep learning implementations.
-
-Worked on:
-- CNNs for image classification
-- Dense networks
-- Transformer from scratch
-- NLP sentiment analysis
-
-Datasets:
-- CIFAR-10
-- IMDB
-
----
-
 ## Tech Stack
 
 **Languages**
@@ -145,8 +75,7 @@ Datasets:
 - Build more production-grade systems
 - Contribute to stronger AI/ML projects
 - Strengthen system design and backend engineering depth
-- Move toward AI engineering / quantitative systems development
-
+- Strengthen DSA - problem solving
 ---
 
 ## Reach me
